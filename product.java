@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// this program is to find the product of two numbers
 public class product {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
