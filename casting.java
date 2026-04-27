@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// this program is the program to demonstrate type casting in java 
 public class casting {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
