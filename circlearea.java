@@ -6,7 +6,6 @@ public class circlearea {
     double b = sc.nextInt();
     double a = 3.14;
     double area = b*b*a;
-    System.out.println(area);
-
+    System.out.println("Area = " + area);
   }
 }

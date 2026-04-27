@@ -5,9 +5,9 @@ public class casting {
     Scanner sc = new Scanner(System.in);
     double a = 1.2548;
     int b = (int) a;
-    System.out.println(b);
+    System.out.println("b = " + b);
     int c = 5;
     double d =(double) c;
-    System.out.println(d);
+    System.out.println("d = " + d);
   }
 }
