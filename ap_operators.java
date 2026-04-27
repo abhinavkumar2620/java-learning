@@ -1,4 +1,7 @@
 public class ap_operators {
+  // operators are used to perform operations on variables and values
+  // types of operators
+  // arithmetic operators
   public static void main(String[] args) {
     int a = 5;
     int b = 5;
