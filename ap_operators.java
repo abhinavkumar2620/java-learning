@@ -6,15 +6,15 @@ public class ap_operators {
     int a = 5;
     int b = 5;
     int c = a + b;
-    System.out.println("add = " + c);
+    System.out.println("add = " + c); // addition
     int d = a - b;
-    System.out.println("sub = " + d);
+    System.out.println("sub = " + d); // subtraction
     int e = a * b;
-    System.out.println("multiply = " + e);
+    System.out.println("multiply = " + e); // multiplication
     int f = a / b;
-    System.out.println("divide = " +f);
+    System.out.println("divide = " +f); // division
     int g = a % b;
-    System.out.println("modulo = " + g);
+    System.out.println("modulo = " + g); // modulo operator gives the remainder of the division
 
 
 
