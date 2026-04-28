@@ -1,69 +1,55 @@
-# java-learning
-# Java Learning 🚀
+# Java Learning
 
-This repository contains my Java learning journey from basics to advanced concepts.
-I am consistently practicing and pushing code to improve my programming skills.
+This repository contains my Java learning journey, starting from basic concepts and gradually moving toward advanced topics. The goal is to build a strong foundation in Java programming through consistent practice and structured learning.
 
 ---
 
-## 📌 Topics Covered
+## Overview
 
-* Variables & Data Types
-* Input / Output (Scanner)
-* Type Casting & Conversion
-* Basic Mathematical Programs
-* Pattern Programs
+This repository is organized topic-wise and includes programs written during daily practice. Each section focuses on understanding core concepts and applying them through code.
 
 ---
 
-## 📁 Folder Structure
+## Topics Covered
 
-```
-java-learning/
-│
-├── basics/
-│   ├── Sum.java
-│   ├── Product.java
-│   ├── CircleArea.java
-│   ├── TypeCasting.java
-│   ├── UserInput.java
-│
-└── README.md
-```
+### Basics
 
----
+* Variables and Data Types
+* Input and Output (Scanner)
+* Type Casting and Type Conversion
 
-## 💻 Programs Included
+### Operators
 
-* Sum of two numbers
-* Product of numbers
-* Area of a circle
-* User input programs
-* Type casting examples
+* Arithmetic Operators
+* Unary Operators
+* Relational Operators
+* Logical Operators
+* Assignment Operators
+* Operator Precedence
 
 ---
 
-## 🎯 Goal
+## Approach
 
-To build strong Java fundamentals and prepare for coding interviews and placements.
+* Concepts are first understood through study material
+* Each concept is implemented through small programs
+* Code is written manually to improve problem-solving skills
+* Changes are pushed regularly to maintain consistency
 
 ---
 
-## 🛠️ Tools & Technologies
+## Goal
+
+To develop strong Java fundamentals and build a solid base for data structures, algorithms, and technical interviews.
+
+---
+
+## Tools Used
 
 * Java
-* VS Code
-* Git & GitHub
+* Visual Studio Code
+* Git and GitHub
 
----
+## Notes
 
-## 📅 Progress
-
-* Day 1 ✅ Variables, Input/Output, Type Casting
-* More coming daily...
-
----
-
-## 📌 Note
-
-This repository is regularly updated as I continue learning Java step by step.
+This repository is continuously updated as part of daily practice. It reflects ongoing improvement and understanding of Java concepts.
