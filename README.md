@@ -20,6 +20,7 @@ This repository contains beginner-friendly Java practice programs organized by t
   - `SumExample.java`
   - `ProductExample.java`
   - `CircleArea.java`
+- `java-dsa-practice`
 
 ## Progress Tracking
 
@@ -34,3 +35,4 @@ This repository contains beginner-friendly Java practice programs organized by t
 - Java
 - Visual Studio Code
 - Git
+- Geeks For Geeks
