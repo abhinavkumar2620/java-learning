@@ -1,38 +1,35 @@
-# Java Learning Portfolio
+Java Learning Repository
 
-This repository contains beginner-friendly Java practice programs organized by topic and concept. Each folder demonstrates a core Java concept with clean code, helpful comments, and simple input/output examples.
+This repository contains my structured journey of learning Java, covering core concepts, problem-solving, and practice programs.
 
-## Folder Structure
+ Folder Structure
+01-basics → Basic Java concepts (syntax, variables, data types)
+02-operators → Arithmetic, relational, logical operators
+03-conditions → If-else, switch case programs
+04-patterns → Pattern printing problems (stars, numbers)
+05-math-programs → Mathematical logic-based programs
+06-loops → For loop, while loop, and related problems
+java-dsa-practice → Solved DSA problems (GeeksforGeeks & others)
+🚀 What I'm Doing
+Learning Java step by step
+Writing clean and simple programs
+Practicing logic building daily
+Solving DSA questions regularly
+  Tools Used
+Java (JDK)
+VS Code
+Git & GitHub
+ Progress
+Completed basics, operators, conditions, loops
+Currently focusing on:
+Pattern problems
+DSA practice
+  Goal
 
-- `01-basics`
-  - `InputSum.java`
-  - `TypeCastingExample.java`
-- `02-operators`
-  - `ArithmeticOperators.java`
-  - `RelationalOperators.java`
-  - `LogicalOperators.java`
-  - `UnaryOperators.java`
-- `03-conditions`
-  - `IfElseExample.java`
-- `04-patterns`
-  - `StarPattern.java`
-- `05-math-programs`
-  - `SumExample.java`
-  - `ProductExample.java`
-  - `CircleArea.java`
-- `java-dsa-practice`
+To become a strong problem solver and crack top tech company placements.
 
-## Progress Tracking
+  Note
 
-- [x] Organized source files into topic folders
-- [x] Renamed files and classes using PascalCase
-- [x] Added clear comments and consistent formatting
-- [x] Removed compiled artifacts and cleaned up the repository
-- [ ] Continue adding new Java examples and learning exercises
+This is a learning repository, so code quality and structure will improve over time as I progress.
 
-## Tech Stack
-
-- Java
-- Visual Studio Code
-- Git
-- Geeks For Geeks
+  Feel free to explore and follow my journey!
