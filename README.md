@@ -61,7 +61,7 @@ I want to become a good problem solver and eventually get placed in a top tech c
 ## 📌 Final Note
 
 This is a learning repository, so everything here is part of my growth.
-You might see simple code now, but it will keep getting better over time.
+You might see simple code now, but it will keep getting better over the time.
 
 ---
 
