@@ -14,7 +14,7 @@ public class CountDigits {
       number = number / 10;
       count++;
     }
-
+    
     System.out.println("Total digits = " + count);
 
     sc.close();
