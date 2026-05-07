@@ -1,68 +1,90 @@
 # ☕ Java Learning Journey
 
-Hi, I’m Abhinav 👋
-This repository is where I’m documenting my journey of learning Java step by step.
+Welcome to my Java learning repository.  
+This repository contains all the Java programs I practice daily while learning core Java concepts from beginner to advanced level.
 
-I started with the basics and I’m gradually moving towards problem solving and DSA. This repo is basically my daily practice space where I write code, make mistakes, fix them, and improve.
-
----
-
-## 📂 What’s Inside
-
-* **01-basics** → Learning syntax, variables, and data types
-* **02-operators** → Practicing different types of operators
-* **03-conditions** → If-else and switch case programs
-* **04-patterns** → Pattern printing (this is actually fun 😄)
-* **05-math-programs** → Logic-based math problems
-* **06-loops** → For loop, while loop, do-while
-* **java-dsa-practice** → DSA questions from platforms like GFG
+I am currently focusing on:
+- Java Basics
+- Operators
+- Conditional Statements
+- Loops
+- Pattern Programs
+- Logic Building
+- Problem Solving
 
 ---
 
-## 🚀 What I’m Doing Right Now
+# 📂 Folder Structure
 
-* Practicing Java daily
-* Improving my logic building
-* Solving DSA questions
-* Trying to write cleaner code than yesterday
+## 01-basics
+Basic Java programs and syntax practice.
 
----
+## 02-operators
+Programs based on arithmetic, relational, logical, and assignment operators.
 
-## 🛠️ Tools I Use
+## 03-conditions
+Programs using:
+- if
+- if-else
+- nested if
+- switch case
 
-* Java (JDK)
-* VS Code
-* Git & GitHub
+## 04-patterns
+Pattern printing programs using loops.
 
----
+## 05-math-programs
+Mathematical programs like:
+- factorial
+- reverse number
+- palindrome
+- sum of natural numbers
+- multiplication table
 
-## 📈 Progress
+## 06-loops
+Programs using:
+- while loop
+- do-while loop
+- for loop
+- nested loops
 
-I’ve completed:
-
-* Basics
-* Operators
-* Conditions
-* Loops
-
-Currently working on:
-
-* Pattern problems
-* DSA practice
-
----
-
-## 🎯 My Goal
-
-I want to become a good problem solver and eventually get placed in a top tech company.
-
----
-
-## 📌 Final Note
-
-This is a learning repository, so everything here is part of my growth.
-You might see simple code now, but it will keep getting better over the time.
+Examples:
+- Fibonacci Series
+- Reverse Number
+- Count Digits
+- Multiplication Table
+- Number Patterns
+- Check Multiple of 10
 
 ---
 
-Thanks for checking this out 🙂
+# 🚀 Goals
+
+- Improve Java fundamentals
+- Build strong problem-solving skills
+- Prepare for coding interviews
+- Prepare for placement opportunities
+- Learn Data Structures and Algorithms next
+
+---
+
+# 🛠️ Technologies Used
+
+- Java
+- VS Code
+- Git & GitHub
+
+---
+
+# 📈 Progress
+
+I update this repository regularly with new programs and concepts as I continue learning Java.
+
+---
+
+# 🤝 Connect With Me
+
+GitHub: [abhinavkumar2620](https://github.com/abhinavkumar2620)
+
+---
+
+⭐ If you are also learning Java, feel free to explore the repository and practice along with me.
