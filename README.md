@@ -1,90 +1,144 @@
-# ☕ Java Learning Journey
+# ☕ Java Learning Repository
 
-Welcome to my Java learning repository.  
-This repository contains all the Java programs I practice daily while learning core Java concepts from beginner to advanced level.
+This repository contains my Java learning journey where I practice Java programming daily and improve my problem-solving skills step by step.
 
-I am currently focusing on:
+I am currently learning:
 - Java Basics
 - Operators
 - Conditional Statements
 - Loops
-- Pattern Programs
+- Pattern Printing
+- Mathematical Programs
 - Logic Building
-- Problem Solving
 
 ---
 
-# 📂 Folder Structure
+# 📂 Repository Structure
 
-## 01-basics
-Basic Java programs and syntax practice.
+## 📁 01-basics
+Basic Java syntax and beginner programs.
 
-## 02-operators
-Programs based on arithmetic, relational, logical, and assignment operators.
+### Topics Covered
+- Hello World
+- Variables
+- Data Types
+- User Input
+- Basic Output
 
-## 03-conditions
-Programs using:
-- if
-- if-else
+---
+
+## 📁 02-operators
+Programs based on different Java operators.
+
+### Topics Covered
+- Arithmetic Operators
+- Relational Operators
+- Logical Operators
+- Assignment Operators
+
+---
+
+## 📁 03-conditions
+Programs using conditional statements.
+
+### Topics Covered
+- if statement
+- if-else statement
 - nested if
 - switch case
 
-## 04-patterns
+### Example Programs
+- Calculator Using Switch Case
+- Positive or Negative Number
+- Largest Among Numbers
+
+---
+
+## 📁 04-patterns
 Pattern printing programs using loops.
 
-## 05-math-programs
-Mathematical programs like:
-- factorial
-- reverse number
-- palindrome
-- sum of natural numbers
-- multiplication table
+### Example Patterns
+- Square Pattern
+- Triangle Pattern
+- Number Pattern
+- Star Pattern
 
-## 06-loops
-Programs using:
+---
+
+## 📁 05-math-programs
+Programs related to mathematical calculations.
+
+### Example Programs
+- Factorial Number
+- Reverse Number
+- Palindrome Number
+- Fibonacci Series
+- Sum of Natural Numbers
+
+---
+
+## 📁 06-loops
+Programs using loops and nested loops.
+
+### Loops Covered
+- for loop
 - while loop
 - do-while loop
-- for loop
-- nested loops
 
-Examples:
-- Fibonacci Series
-- Reverse Number
-- Count Digits
+### Example Programs
+- Print Numbers
 - Multiplication Table
-- Number Patterns
-- Check Multiple of 10
+- Count Digits
+- Reverse Number
+- Fibonacci Series
+- Check Multiple Of 10
+- Sum Of N Natural Numbers
 
 ---
 
-# 🚀 Goals
+# 🚀 Purpose of This Repository
 
 - Improve Java fundamentals
-- Build strong problem-solving skills
-- Prepare for coding interviews
-- Prepare for placement opportunities
-- Learn Data Structures and Algorithms next
+- Build coding consistency
+- Practice logic building
+- Prepare for placements
+- Prepare for Data Structures and Algorithms
 
 ---
 
-# 🛠️ Technologies Used
+# 🛠️ Tools & Technologies
 
 - Java
 - VS Code
-- Git & GitHub
+- Git
+- GitHub
 
 ---
 
-# 📈 Progress
+# 📈 Current Progress
 
-I update this repository regularly with new programs and concepts as I continue learning Java.
+I regularly update this repository with new Java programs and concepts as I continue learning.
+
+---
+
+# 🔥 Future Plans
+
+- Object-Oriented Programming (OOP)
+- Arrays
+- Strings
+- Recursion
+- Data Structures
+- Algorithms
+- Competitive Programming
 
 ---
 
 # 🤝 Connect With Me
 
-GitHub: [abhinavkumar2620](https://github.com/abhinavkumar2620)
+GitHub:  
+https://github.com/abhinavkumar2620
 
 ---
 
-⭐ If you are also learning Java, feel free to explore the repository and practice along with me.
+⭐ Thank you for visiting my repository.
+Feel free to explore the code and learn along with me.
