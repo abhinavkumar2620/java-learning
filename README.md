@@ -1,14 +1,21 @@
 # ☕ Java Learning Journey
 
 Welcome to my Java learning repository.  
-This repository contains all the Java programs I practice daily while learning Java from beginner to advanced level.
+This repository contains all the Java programs I practice daily while learning Java and improving my problem-solving skills step by step.
 
-I created this repository to:
-- improve my Java fundamentals
-- build problem-solving skills
-- practice coding consistently
-- prepare for placements and interviews
-- track my learning progress publicly
+---
+
+# 🚀 What I Am Learning
+
+- Java Fundamentals
+- Operators
+- Conditional Statements
+- Loops
+- Nested Loops
+- Pattern Printing
+- Mathematical Programs
+- Logic Building
+- Problem Solving
 
 ---
 
@@ -17,19 +24,20 @@ I created this repository to:
 ## 📁 01-basics
 Basic Java syntax and beginner-friendly programs.
 
-### Topics
+### Topics Covered
 - Hello World Program
 - Variables
 - Data Types
-- Input & Output
-- Basic Syntax
+- User Input
+- Type Casting
+- Basic Output
 
 ---
 
 ## 📁 02-operators
 Programs based on Java operators.
 
-### Topics
+### Topics Covered
 - Arithmetic Operators
 - Relational Operators
 - Logical Operators
@@ -41,7 +49,7 @@ Programs based on Java operators.
 ## 📁 03-conditions
 Programs using decision-making statements.
 
-### Topics
+### Topics Covered
 - if statement
 - if-else statement
 - nested if
@@ -55,30 +63,7 @@ Programs using decision-making statements.
 
 ---
 
-## 📁 04-patterns
-Pattern printing programs using loops.
-
-### Programs
-- Square Pattern
-- Triangle Pattern
-- Star Pattern
-- Number Pattern
-
----
-
-## 📁 05-math-programs
-Mathematical and logic-building programs.
-
-### Programs
-- Factorial Number
-- Reverse Number
-- Fibonacci Series
-- Palindrome Number
-- Sum of Natural Numbers
-
----
-
-## 📁 06-loops
+## 📁 04-loops
 Programs using loops and nested loops.
 
 ### Loops Covered
@@ -87,28 +72,38 @@ Programs using loops and nested loops.
 - do-while loop
 
 ### Programs
-- Print Numbers from 1 to 10
+- Print Numbers
 - Reverse Number
 - Count Digits
-- Multiplication Table
+- Sum Of Digits
 - Fibonacci Series
-- Check Multiple of 10
-- Sum of N Natural Numbers
-- Print Patterns
+- Multiplication Table
+- Sum Of N Natural Numbers
+- Prime Number
+- Armstrong Number
+- Palindrome Number
+- Perfect Number
+- GCD Program
+- LCM Program
+- Check Multiple Of 10
 
 ---
 
-# 🚀 Skills I Am Learning
+## 📁 05-patterns
+Pattern printing programs using nested loops.
 
-- Java Fundamentals
-- Problem Solving
-- Logic Building
-- Clean Coding
-- Git & GitHub
+### Pattern Programs
+- Star Triangle Pattern
+- Reverse Star Pattern
+- Inverted Star Pattern
+- Number Triangle Pattern
+- Alphabet Triangle Pattern
+- Square Pattern
+- Right Angle Triangle Pattern
 
 ---
 
-# 🛠️ Tools & Technologies
+# 🛠️ Technologies Used
 
 - Java
 - VS Code
@@ -117,19 +112,32 @@ Programs using loops and nested loops.
 
 ---
 
-# 📈 Learning Progress
+# 📈 Current Progress
 
-I update this repository regularly with new Java programs and concepts as I continue learning and improving my coding skills.
+I update this repository regularly with new Java programs and concepts as I continue practicing coding every day.
 
 ---
 
-# 🎯 Future Goals
+# 🎯 Goals
 
-- Learn Object-Oriented Programming (OOP)
-- Master Data Structures & Algorithms
-- Solve coding problems daily
-- Build Java projects
-- Prepare for software engineering placements
+- Strengthen Java fundamentals
+- Improve coding consistency
+- Build strong logic-building skills
+- Prepare for placements
+- Learn Data Structures and Algorithms
+- Build real Java projects
+
+---
+
+# 🔥 Future Learning Plans
+
+- Object-Oriented Programming (OOP)
+- Arrays
+- Strings
+- Recursion
+- Data Structures
+- Algorithms
+- Competitive Programming
 
 ---
 
@@ -140,148 +148,5 @@ https://github.com/abhinavkumar2620
 
 ---
 
-⭐ Thanks for visiting my repository.  
-Feel free to explore the programs and follow my learning journey.# ☕ Java Learning Journey
-
-Welcome to my Java learning repository.  
-This repository contains all the Java programs I practice daily while learning Java from beginner to advanced level.
-
-I created this repository to:
-- improve my Java fundamentals
-- build problem-solving skills
-- practice coding consistently
-- prepare for placements and interviews
-- track my learning progress publicly
-
----
-
-# 📂 Repository Structure
-
-## 📁 01-basics
-Basic Java syntax and beginner-friendly programs.
-
-### Topics
-- Hello World Program
-- Variables
-- Data Types
-- Input & Output
-- Basic Syntax
-
----
-
-## 📁 02-operators
-Programs based on Java operators.
-
-### Topics
-- Arithmetic Operators
-- Relational Operators
-- Logical Operators
-- Assignment Operators
-- Unary Operators
-
----
-
-## 📁 03-conditions
-Programs using decision-making statements.
-
-### Topics
-- if statement
-- if-else statement
-- nested if
-- switch case
-
-### Programs
-- Calculator Using Switch Case
-- Largest Number
-- Positive or Negative Number
-- Odd or Even Number
-
----
-
-## 📁 04-patterns
-Pattern printing programs using loops.
-
-### Programs
-- Square Pattern
-- Triangle Pattern
-- Star Pattern
-- Number Pattern
-
----
-
-## 📁 05-math-programs
-Mathematical and logic-building programs.
-
-### Programs
-- Factorial Number
-- Reverse Number
-- Fibonacci Series
-- Palindrome Number
-- Sum of Natural Numbers
-
----
-
-## 📁 06-loops
-Programs using loops and nested loops.
-
-### Loops Covered
-- for loop
-- while loop
-- do-while loop
-
-### Programs
-- Print Numbers from 1 to 10
-- Reverse Number
-- Count Digits
-- Multiplication Table
-- Fibonacci Series
-- Check Multiple of 10
-- Sum of N Natural Numbers
-- Print Patterns
-
----
-
-# 🚀 Skills I Am Learning
-
-- Java Fundamentals
-- Problem Solving
-- Logic Building
-- Clean Coding
-- Git & GitHub
-
----
-
-# 🛠️ Tools & Technologies
-
-- Java
-- VS Code
-- Git
-- GitHub
-
----
-
-# 📈 Learning Progress
-
-I update this repository regularly with new Java programs and concepts as I continue learning and improving my coding skills.
-
----
-
-# 🎯 Future Goals
-
-- Learn Object-Oriented Programming (OOP)
-- Master Data Structures & Algorithms
-- Solve coding problems daily
-- Build Java projects
-- Prepare for software engineering placements
-
----
-
-# 🤝 Connect With Me
-
-## GitHub
-https://github.com/abhinavkumar2620
-
----
-
-⭐ Thanks for visiting my repository.  
-Feel free to explore the programs and follow my learning journey.
+⭐ Thank you for visiting my repository.  
+Feel free to explore the programs and follow my Java learning journey.
