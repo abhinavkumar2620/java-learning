@@ -1,43 +1,30 @@
-# ☕ Java Learning Journey
+# ☕ Java Learning Repository
 
-Welcome to my Java learning repository.  
-This repository contains all the Java programs I practice daily while learning Java and improving my problem-solving skills step by step.
+Welcome to my Java Learning Repository.  
+This repository contains all the Java programs and practice questions I solve while learning Java step by step.
 
----
-
-# 🚀 What I Am Learning
-
-- Java Fundamentals
-- Operators
-- Conditional Statements
-- Loops
-- Nested Loops
-- Pattern Printing
-- Mathematical Programs
-- Logic Building
-- Problem Solving
+The main purpose of this repository is to:
+- Practice Java consistently
+- Improve problem-solving skills
+- Build strong programming fundamentals
+- Track my coding progress
+- Prepare for placements and coding interviews
 
 ---
 
-# 📂 Repository Structure
+# 📚 Topics Covered
 
-## 📁 01-basics
-Basic Java syntax and beginner-friendly programs.
-
-### Topics Covered
+## 🔹 Java Basics
 - Hello World Program
-- Variables
-- Data Types
+- Variables and Data Types
 - User Input
 - Type Casting
-- Basic Output
+- Basic Syntax
 
 ---
 
-## 📁 02-operators
-Programs based on Java operators.
-
-### Topics Covered
+## 🔹 Operators
+Programs based on:
 - Arithmetic Operators
 - Relational Operators
 - Logical Operators
@@ -46,53 +33,50 @@ Programs based on Java operators.
 
 ---
 
-## 📁 03-conditions
-Programs using decision-making statements.
-
-### Topics Covered
+## 🔹 Conditional Statements
+Programs using:
 - if statement
 - if-else statement
 - nested if
 - switch case
 
-### Programs
-- Calculator Using Switch Case
-- Largest Number
-- Positive or Negative Number
+### Example Programs
 - Odd or Even Number
+- Positive or Negative Number
+- Largest Among Numbers
+- Calculator Using Switch Case
 
 ---
 
-## 📁 04-loops
-Programs using loops and nested loops.
-
-### Loops Covered
+## 🔹 Loops
+Programs using:
 - for loop
 - while loop
 - do-while loop
+- nested loops
 
-### Programs
+### Example Programs
 - Print Numbers
 - Reverse Number
-- Count Digits
-- Sum Of Digits
 - Fibonacci Series
 - Multiplication Table
-- Sum Of N Natural Numbers
+- Count Digits
+- Sum Of Digits
 - Prime Number
 - Armstrong Number
 - Palindrome Number
 - Perfect Number
 - GCD Program
 - LCM Program
+- Sum Of N Natural Numbers
 - Check Multiple Of 10
 
 ---
 
-## 📁 05-patterns
+## 🔹 Pattern Programs
 Pattern printing programs using nested loops.
 
-### Pattern Programs
+### Patterns Included
 - Star Triangle Pattern
 - Reverse Star Pattern
 - Inverted Star Pattern
@@ -112,24 +96,24 @@ Pattern printing programs using nested loops.
 
 ---
 
-# 📈 Current Progress
-
-I update this repository regularly with new Java programs and concepts as I continue practicing coding every day.
-
----
-
 # 🎯 Goals
 
 - Strengthen Java fundamentals
 - Improve coding consistency
-- Build strong logic-building skills
-- Prepare for placements
+- Build logical thinking
+- Prepare for coding interviews
 - Learn Data Structures and Algorithms
-- Build real Java projects
+- Build Java projects
 
 ---
 
-# 🔥 Future Learning Plans
+# 📈 Learning Progress
+
+I regularly update this repository with new Java programs and concepts as I continue learning and practicing coding every day.
+
+---
+
+# 🚀 Future Plans
 
 - Object-Oriented Programming (OOP)
 - Arrays
