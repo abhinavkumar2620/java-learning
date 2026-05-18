@@ -1,29 +1,30 @@
-# ☕ Java Learning Repository
+# ☕ Java Practice Repository
 
-Welcome to my Java Learning Repository.  
-This repository contains all the Java programs and practice questions I solve while learning Java step by step.
+This repository contains my Java practice programs and coding exercises that I solve while learning Java programming.
 
-The main purpose of this repository is to:
-- Practice Java consistently
-- Improve problem-solving skills
-- Build strong programming fundamentals
-- Track my coding progress
-- Prepare for placements and coding interviews
+I created this repository to improve my:
+- Java fundamentals
+- Problem-solving skills
+- Logic-building ability
+- Coding consistency
+
+I regularly upload new programs and concepts as I continue learning.
 
 ---
 
 # 📚 Topics Covered
 
-## 🔹 Java Basics
+## 📌 Basics of Java
 - Hello World Program
-- Variables and Data Types
+- Variables
+- Data Types
 - User Input
 - Type Casting
 - Basic Syntax
 
 ---
 
-## 🔹 Operators
+## 📌 Operators
 Programs based on:
 - Arithmetic Operators
 - Relational Operators
@@ -33,14 +34,14 @@ Programs based on:
 
 ---
 
-## 🔹 Conditional Statements
+## 📌 Conditional Statements
 Programs using:
 - if statement
 - if-else statement
 - nested if
 - switch case
 
-### Example Programs
+### Programs
 - Odd or Even Number
 - Positive or Negative Number
 - Largest Among Numbers
@@ -48,46 +49,42 @@ Programs using:
 
 ---
 
-## 🔹 Loops
+## 📌 Loops
 Programs using:
 - for loop
 - while loop
 - do-while loop
 - nested loops
 
-### Example Programs
-- Print Numbers
-- Reverse Number
+### Programs
 - Fibonacci Series
+- Reverse Number
 - Multiplication Table
+- Prime Number
+- Palindrome Number
+- Armstrong Number
+- Perfect Number
+- GCD and LCM
 - Count Digits
 - Sum Of Digits
-- Prime Number
-- Armstrong Number
-- Palindrome Number
-- Perfect Number
-- GCD Program
-- LCM Program
-- Sum Of N Natural Numbers
-- Check Multiple Of 10
+- Sum Of Natural Numbers
 
 ---
 
-## 🔹 Pattern Programs
+## 📌 Pattern Programs
 Pattern printing programs using nested loops.
 
 ### Patterns Included
 - Star Triangle Pattern
 - Reverse Star Pattern
 - Inverted Star Pattern
-- Number Triangle Pattern
-- Alphabet Triangle Pattern
+- Number Pattern
+- Alphabet Pattern
 - Square Pattern
-- Right Angle Triangle Pattern
 
 ---
 
-# 🛠️ Technologies Used
+# 🛠️ Tools & Technologies
 
 - Java
 - VS Code
@@ -98,22 +95,15 @@ Pattern printing programs using nested loops.
 
 # 🎯 Goals
 
-- Strengthen Java fundamentals
-- Improve coding consistency
-- Build logical thinking
-- Prepare for coding interviews
+- Build strong Java fundamentals
+- Improve coding skills
+- Practice problem solving daily
+- Prepare for placements
 - Learn Data Structures and Algorithms
-- Build Java projects
 
 ---
 
-# 📈 Learning Progress
-
-I regularly update this repository with new Java programs and concepts as I continue learning and practicing coding every day.
-
----
-
-# 🚀 Future Plans
+# 🚀 Future Learning Goals
 
 - Object-Oriented Programming (OOP)
 - Arrays
@@ -125,12 +115,17 @@ I regularly update this repository with new Java programs and concepts as I cont
 
 ---
 
+# 📈 Progress
+
+This repository is updated regularly with new Java programs and practice questions.
+
+---
+
 # 🤝 Connect With Me
 
-## GitHub
+GitHub:  
 https://github.com/abhinavkumar2620
 
 ---
 
-⭐ Thank you for visiting my repository.  
-Feel free to explore the programs and follow my Java learning journey.
+⭐ Thank you for visiting this repository.
