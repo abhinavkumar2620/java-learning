@@ -1,31 +1,37 @@
 # ☕ Java Practice Repository
 
-This repository contains my Java practice programs and coding exercises that I solve while learning Java programming.
+Welcome to my Java Practice Repository.  
+This repository contains all the Java programs and coding exercises I practice while learning Java programming step by step.
 
-I created this repository to improve my:
-- Java fundamentals
-- Problem-solving skills
-- Logic-building ability
-- Coding consistency
-
-I regularly upload new programs and concepts as I continue learning.
+The goal of this repository is to:
+- Improve Java fundamentals
+- Build strong problem-solving skills
+- Practice coding consistently
+- Develop logical thinking
+- Prepare for coding interviews and placements
 
 ---
 
 # 📚 Topics Covered
 
-## 📌 Basics of Java
-- Hello World Program
+## 📌 Java Basics
+Programs based on:
 - Variables
 - Data Types
 - User Input
 - Type Casting
 - Basic Syntax
+- Output Statements
+
+### Example Programs
+- Hello World Program
+- Input From User
+- Simple Calculator
 
 ---
 
 ## 📌 Operators
-Programs based on:
+Programs using:
 - Arithmetic Operators
 - Relational Operators
 - Logical Operators
@@ -41,11 +47,12 @@ Programs using:
 - nested if
 - switch case
 
-### Programs
+### Example Programs
 - Odd or Even Number
 - Positive or Negative Number
 - Largest Among Numbers
 - Calculator Using Switch Case
+- Leap Year Program
 
 ---
 
@@ -56,18 +63,21 @@ Programs using:
 - do-while loop
 - nested loops
 
-### Programs
+### Example Programs
 - Fibonacci Series
-- Reverse Number
-- Multiplication Table
 - Prime Number
-- Palindrome Number
 - Armstrong Number
 - Perfect Number
-- GCD and LCM
+- Strong Number
+- Palindrome Number
+- Reverse Number
 - Count Digits
 - Sum Of Digits
 - Sum Of Natural Numbers
+- Multiplication Table
+- GCD Program
+- LCM Program
+- Power Of Number
 
 ---
 
@@ -78,13 +88,15 @@ Pattern printing programs using nested loops.
 - Star Triangle Pattern
 - Reverse Star Pattern
 - Inverted Star Pattern
-- Number Pattern
-- Alphabet Pattern
+- Number Triangle Pattern
+- Alphabet Triangle Pattern
+- Floyd’s Triangle
+- Hollow Square Pattern
 - Square Pattern
 
 ---
 
-# 🛠️ Tools & Technologies
+# 🛠️ Technologies Used
 
 - Java
 - VS Code
@@ -93,17 +105,18 @@ Pattern printing programs using nested loops.
 
 ---
 
-# 🎯 Goals
+# 🎯 Learning Goals
 
-- Build strong Java fundamentals
-- Improve coding skills
-- Practice problem solving daily
+- Strengthen Java fundamentals
+- Improve coding consistency
+- Build strong logical thinking
 - Prepare for placements
 - Learn Data Structures and Algorithms
+- Build real-world Java projects
 
 ---
 
-# 🚀 Future Learning Goals
+# 🚀 Future Plans
 
 - Object-Oriented Programming (OOP)
 - Arrays
@@ -117,15 +130,16 @@ Pattern printing programs using nested loops.
 
 # 📈 Progress
 
-This repository is updated regularly with new Java programs and practice questions.
+I regularly update this repository with new Java programs and practice questions as I continue learning.
 
 ---
 
 # 🤝 Connect With Me
 
-GitHub:  
+## GitHub
 https://github.com/abhinavkumar2620
 
 ---
 
-⭐ Thank you for visiting this repository.
+⭐ Thank you for visiting this repository.  
+Feel free to explore the programs and follow my Java learning journey.
