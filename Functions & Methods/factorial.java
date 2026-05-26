@@ -1,5 +1,5 @@
 import java.util.Scanner;
-// This program calculates the factorial of a given number using a method called fraction.
+//this factorial program calculates the factorial of a given number using a method called fraction.
 public static int fraction(int a){
   int f=1;
   for(int i=a; i>=1; i--){
