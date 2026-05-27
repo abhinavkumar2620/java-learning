@@ -9,7 +9,7 @@ public class OptimisedPrimecheck {
   return true;
   }
   public static void main(String[]args){
-  int n=28;
+  int n=11;
   System.out.println(isprime(n));
   }
 }
