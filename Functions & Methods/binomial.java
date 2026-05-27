@@ -9,7 +9,8 @@ public class binomial {
     }
     return f; // Placeholder return, replace with actual fraction calculation
   }
-  public static void main(String[] args) {
+  
+   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     System.out.println("ENTER THE NUMBER N:");
     int n = sc.nextInt();
