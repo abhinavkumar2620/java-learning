@@ -1,37 +1,28 @@
-# ☕ Java Practice Repository
+☕ Java Practice Repository
 
-Welcome to my Java Practice Repository.  
-This repository contains all the Java programs and coding exercises I practice while learning Java programming step by step.
+Welcome to my Java Practice Repository.
 
-The goal of this repository is to:
-- Improve Java fundamentals
-- Build strong problem-solving skills
-- Practice coding consistently
-- Develop logical thinking
-- Prepare for coding interviews and placements
+This repository contains all the Java programs and coding exercises I practice while learning Java programming step by step. I regularly update this repository with new concepts, logic-building programs, and pattern questions to improve my programming skills.
 
 ---
 
-# 📚 Topics Covered
+📚 Topics Covered
 
-## 📌 Java Basics
-Programs based on:
-- Variables
-- Data Types
+🔹 Java Basics
+
+- Hello World Program
+- Variables and Data Types
 - User Input
 - Type Casting
 - Basic Syntax
 - Output Statements
 
-### Example Programs
-- Hello World Program
-- Input From User
-- Simple Calculator
-
 ---
 
-## 📌 Operators
-Programs using:
+🔹 Operators
+
+Programs based on:
+
 - Arithmetic Operators
 - Relational Operators
 - Logical Operators
@@ -40,32 +31,39 @@ Programs using:
 
 ---
 
-## 📌 Conditional Statements
+🔹 Conditional Statements
+
 Programs using:
+
 - if statement
 - if-else statement
 - nested if
 - switch case
 
-### Example Programs
+Example Programs
+
 - Odd or Even Number
 - Positive or Negative Number
 - Largest Among Numbers
-- Calculator Using Switch Case
 - Leap Year Program
+- Calculator Using Switch Case
 
 ---
 
-## 📌 Loops
+🔹 Loops
+
 Programs using:
+
 - for loop
 - while loop
 - do-while loop
 - nested loops
 
-### Example Programs
+Example Programs
+
 - Fibonacci Series
 - Prime Number
+- Optimised Prime Check
 - Armstrong Number
 - Perfect Number
 - Strong Number
@@ -75,16 +73,17 @@ Programs using:
 - Sum Of Digits
 - Sum Of Natural Numbers
 - Multiplication Table
-- GCD Program
-- LCM Program
+- GCD and LCM
 - Power Of Number
 
 ---
 
-## 📌 Pattern Programs
+🔹 Pattern Programs
+
 Pattern printing programs using nested loops.
 
-### Patterns Included
+Pattern Programs Included
+
 - Star Triangle Pattern
 - Reverse Star Pattern
 - Inverted Star Pattern
@@ -93,10 +92,11 @@ Pattern printing programs using nested loops.
 - Floyd’s Triangle
 - Hollow Square Pattern
 - Square Pattern
+- Right Angle Triangle Pattern
 
 ---
 
-# 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - Java
 - VS Code
@@ -105,18 +105,18 @@ Pattern printing programs using nested loops.
 
 ---
 
-# 🎯 Learning Goals
+🎯 Goals
 
 - Strengthen Java fundamentals
-- Improve coding consistency
+- Improve problem-solving skills
 - Build strong logical thinking
-- Prepare for placements
+- Practice coding consistently
+- Prepare for coding interviews and placements
 - Learn Data Structures and Algorithms
-- Build real-world Java projects
 
 ---
 
-# 🚀 Future Plans
+🚀 Future Learning Plans
 
 - Object-Oriented Programming (OOP)
 - Arrays
@@ -128,17 +128,19 @@ Pattern printing programs using nested loops.
 
 ---
 
-# 📈 Progress
+📈 Repository Progress
 
-I regularly update this repository with new Java programs and practice questions as I continue learning.
+I regularly update this repository with new Java programs and practice questions as I continue learning and improving my coding skills.
 
 ---
 
-# 🤝 Connect With Me
+🤝 Connect With Me
 
-## GitHub
+GitHub
+
 https://github.com/abhinavkumar2620
 
 ---
 
-⭐ Thank you for visiting this repository.  
+⭐ Thank you for visiting this repository.
+Feel free to explore the programs and follow my Java learning journey.
