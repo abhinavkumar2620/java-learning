@@ -1,4 +1,4 @@
-☕ Java Practice Repository
+Java Practice Repository
 
 Welcome to my Java Practice Repository.
 
@@ -6,7 +6,7 @@ This repository contains all the Java programs and coding exercises I practice w
 
 ---
 
-📚 Topics Covered
+ Topics Covered
 
 🔹 Java Basics
 
