@@ -96,7 +96,7 @@ Pattern Programs Included
 
 ---
 
-🛠️ Technologies Used
+ Technologies Used
 
 - Java
 - VS Code
@@ -105,7 +105,7 @@ Pattern Programs Included
 
 ---
 
-🎯 Goals
+Goals
 
 - Strengthen Java fundamentals
 - Improve problem-solving skills
@@ -116,7 +116,7 @@ Pattern Programs Included
 
 ---
 
-🚀 Future Learning Plans
+Future Learning Plans
 
 - Object-Oriented Programming (OOP)
 - Arrays
@@ -128,13 +128,13 @@ Pattern Programs Included
 
 ---
 
-📈 Repository Progress
+ Repository Progress
 
 I regularly update this repository with new Java programs and practice questions as I continue learning and improving my coding skills.
 
 ---
 
-🤝 Connect With Me
+Connect With Me
 
 GitHub
 
@@ -142,5 +142,5 @@ https://github.com/abhinavkumar2620
 
 ---
 
-⭐ Thank you for visiting this repository.
+Thank you for visiting this repository.
 Feel free to explore the programs and follow my Java learning journey.
