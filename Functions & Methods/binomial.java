@@ -19,6 +19,6 @@ public class binomial {
     int r = sc.nextInt();
     fraction(r);
     int result = fraction(n)/(fraction(r)*fraction(n-r));
-    System.out.println("the binomial coefficient of " +n+ " and " +r+  " is: " +result);
+    System.out.println("the binomial coefficient of " +n+ " and " +r+  " is " +result);
   }
 } 
