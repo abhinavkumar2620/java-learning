@@ -132,15 +132,12 @@ Future Learning Plans
 
 I regularly update this repository with new Java programs and practice questions as I continue learning and improving my coding skills.
 
----
-
-Connect With Me
+--
 
 GitHub
 
 https://github.com/abhinavkumar2620
 
 ---
-
 Thank you for visiting this repository.
 Feel free to explore the programs and follow my Java learning journey.
